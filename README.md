@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akilar1
-- 👀 I’m interested in Coding(python,hive..)
+- 👀 I’m interested in Coding(python,sql,bigquery,dataflow,dataproc,datafustion,pyspark..)
 - 🌱 I’m currently working with Cloud platforms like GCP,AWS.
 - 💞️ I’m looking to collaborate on Big data projects
 - 📫 How to reach me through email (akilaraju1993@gmail.com)
